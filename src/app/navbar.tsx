@@ -48,7 +48,7 @@ const Navbar = () => {
             href="/"
             className="text-xl font-bold text-gray-800 dark:text-white shrink-0 transition-colors duration-300 ease-in-out hover:text-blue-600 dark:hover:text-blue-400"
           >
-            Chatify
+            ChatAI
           </Link>
           <div className="flex items-center space-x-2 sm:space-x-4">
             <ModeToggle />
